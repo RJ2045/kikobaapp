@@ -43,6 +43,7 @@ class Home extends StatelessWidget {
             SizedBox(height: 20,),
             CustomButton(
               title: 'Sign in',
+              outline: true,
             )
             ],
           ),
