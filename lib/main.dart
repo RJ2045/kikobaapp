@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:kikobaapp/screens/signup.dart';
 
-import 'customwidgets/buttons.dart';
+import 'customwidgets/CustomButtons.dart';
 import 'screens/signin.dart';
 
 
